@@ -1,3 +1,5 @@
+import { clsx } from 'clsx';
+
 export default function TableOf19() {
   const rows = Array.from({ length: 20 }, (_, i) => ({
     multiplier: i + 1,
@@ -42,5 +44,3 @@ export default function TableOf19() {
     </div>
   );
 }
-
-import { clsx as clsx } from 'clsx';
