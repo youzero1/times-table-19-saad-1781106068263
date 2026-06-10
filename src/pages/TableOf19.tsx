@@ -11,7 +11,7 @@ export default function TableOf19() {
       <div className="bg-white rounded-3xl shadow-2xl overflow-hidden w-full max-w-sm">
         {/* Header */}
         <div className="bg-gradient-to-r from-yellow-400 to-amber-500 px-8 py-6 text-center">
-          <h1 className="text-3xl font-extrabold text-white tracking-wide">Table of 19</h1>
+          <h1 className="text-3xl font-extrabold text-white tracking-wide">Table 19</h1>
           <p className="text-yellow-100 text-sm mt-1">Multiplication Chart</p>
         </div>
 
