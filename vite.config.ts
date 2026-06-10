@@ -13,4 +13,7 @@ export default defineConfig({
       input: 'index.html',
     },
   },
+  optimizeDeps: {
+    force: true,
+  },
 });
